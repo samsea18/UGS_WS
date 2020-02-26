@@ -1,6 +1,6 @@
 # Web Science (H) Course Work - Event Detection
 Developed python web-crawlers using Twitter and Reddit APIs to conduct event detection (Trending events and topics) in Singapore.
-Harvested data was stored in MongoDB and extracted later for analysis using Jupyter Notebook.
+Harvested data was stored in MongoDB and extracted later for analysis (peak online traffic & trending topics) using various visualization techniques (Histogram, Word Cloud & Heatmap) through Jupyter Notebook.
 
 This is a course work on Event Detection. The repository consists of 2 folders:
 - Report
