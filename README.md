@@ -1,12 +1,21 @@
 # UGS_WS
 Web Science (H) Course Work - Event Detection
 
+This is a course work on Event Detection. The repository consists of 2 folders:
+- Report
+- Scripts
 
+The Script folder contains two sub-folders for Twitter and Reddit analytics respectively. 
+
+Each sub-folder consists of:
+- A crawler.py script
+- An analytics.ipynb
+- Exported MongoDB file (.json)
 
 For twitter_crawler.py and reddit_crawler.py :
 1) Open cmd
-2) cd <directory>
-3) python <file name>.py 
+2) cd directory
+3) python file_name.py 
 
 For twitter_analytics.ipynb and reddit_analytics.ipynb :
 1) Install Jupyter
