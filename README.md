@@ -1,6 +1,4 @@
-# UGS_WS
-Web Science (H) Course Work - Event Detection
-
+# Web Science (H) Course Work - Event Detection
 This is a course work on Event Detection. The repository consists of 2 folders:
 - Report
 - Scripts
